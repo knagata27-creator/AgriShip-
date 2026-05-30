@@ -22,4 +22,4 @@
 
 ## お問い合わせ
 
-agriship.support@gmail.com
+knagata27@gmail.com
