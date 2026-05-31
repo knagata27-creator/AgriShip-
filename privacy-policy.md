@@ -21,4 +21,4 @@ CSV・PDF出力機能をご利用の際は、ユーザー自身の操作によ�
 
 ## お問い合わせ
 
-knagata27@gmail.com
+agriship.support@gmail.com
